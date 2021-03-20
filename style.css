@@ -1,0 +1,13 @@
+
+
+li {
+	list-style-type: none;
+}
+
+
+hr{
+	color: black;
+	border-width: 7px;
+	max-width: 500px;
+}
+
